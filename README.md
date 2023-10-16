@@ -1,2 +1,2 @@
 # Mahmoud Tamer 46-9322
- Machine Learning Assignments
+ This repo contains some Machine Learning algorithms trained and tested by me. 
